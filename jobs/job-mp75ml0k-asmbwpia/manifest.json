@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp75ml0k-asmbwpia",
+  "source_url": "https://youtu.be/L3lJZrAqqUQ",
+  "created_at_utc": "2026-05-15T16:51:33Z",
+  "mode": "single",
+  "total_size_bytes": 1028207,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mp75ml0k-asmbwpia/file.bin",
+  "chunks_path_prefix": "jobs/job-mp75ml0k-asmbwpia/chunks/chunk_",
+  "suggested_filename": "L3lJZrAqqUQ"
+}
