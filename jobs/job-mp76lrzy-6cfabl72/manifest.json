@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp76lrzy-6cfabl72",
+  "source_url": "https://dhruvmirrorpremium0-9d786801cf0f.herokuapp.com/77104/Mhrv-Cfw.mp4?hash=AgADNw",
+  "created_at_utc": "2026-05-15T17:19:27Z",
+  "mode": "chunked",
+  "total_size_bytes": 107775174,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 2,
+  "single_file_path": "jobs/job-mp76lrzy-6cfabl72/file.bin",
+  "chunks_path_prefix": "jobs/job-mp76lrzy-6cfabl72/chunks/chunk_",
+  "suggested_filename": "Mhrv-Cfw.mp4"
+}
