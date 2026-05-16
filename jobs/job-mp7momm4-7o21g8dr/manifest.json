@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp7momm4-7o21g8dr",
+  "source_url": "https://bunkr.cr/f/xMAzXLM2JR577",
+  "created_at_utc": "2026-05-16T00:49:05Z",
+  "mode": "single",
+  "total_size_bytes": 49885,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mp7momm4-7o21g8dr/file.bin",
+  "chunks_path_prefix": "jobs/job-mp7momm4-7o21g8dr/chunks/chunk_",
+  "suggested_filename": "xMAzXLM2JR577"
+}
